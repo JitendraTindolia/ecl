@@ -1,4 +1,5 @@
 class Hello{
 
-int x=10;
+public void main(){
+}
 }
